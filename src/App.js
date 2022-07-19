@@ -1,5 +1,9 @@
 /* 
-precisa instalar um biblioteca para trabalhar com requisões HTTP.
+
+-- para usar os icones de https://react-icons.github.io/react-icons/: 
+npm install react-icons
+
+-- precisa instalar um biblioteca para trabalhar com requisões HTTP.
 No caso:
 npm install axios
 */
